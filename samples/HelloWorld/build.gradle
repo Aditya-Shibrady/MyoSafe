@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion '22.0.1'
+
+    defaultConfig {
+        minSdkVersion 18
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    repositories {
+        maven {
+            url 'C:\\Users\\Sajid\\Hackathon 3\\myorepository'
+        }
+    }
+
+    compile 'com.thalmic:myosdk:0.10.0@aar'
+}

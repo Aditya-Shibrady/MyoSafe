@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-2726bede2b023bcbf49bedd7789f22f0d343c817.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-2726bede2b023bcbf49bedd7789f22f0d343c817.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-b299abf8c4032abad829f387cf9838bf4c1fa3a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-b299abf8c4032abad829f387cf9838bf4c1fa3a2.jar" />
+    </item>
+
+</items>

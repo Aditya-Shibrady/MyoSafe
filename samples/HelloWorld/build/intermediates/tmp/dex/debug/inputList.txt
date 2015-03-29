@@ -1,0 +1,3 @@
+C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\classes\debug
+C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\native-libs-b299abf8c4032abad829f387cf9838bf4c1fa3a2.jar
+C:\Users\Sajid\Hackathon 3\samples\HelloWorld\build\intermediates\pre-dexed\debug\classes-2726bede2b023bcbf49bedd7789f22f0d343c817.jar
